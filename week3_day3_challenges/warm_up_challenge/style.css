@@ -1,0 +1,18 @@
+/* Figure out 5 or more DIFFERENT ways to fill in the blank 
+   to produce the desired output */
+
+div {
+    font-family: Helvetica;
+    font-size: 300%;
+    color: yellow;
+    text-align: center;
+}
+
+/* Record your solutions here:
+   #1 - color: yellow;
+   #2 - color: rgb(255, 255, 0);
+   #3 - h1{}
+   #4 -font-size: 50px;
+   #5 - div{}
+
+   e.g. - .pika               */
